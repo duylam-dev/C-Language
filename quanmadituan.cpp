@@ -25,6 +25,6 @@ bool check(){
 }
 
 int main(){
-
+    printf("updating");
     return 0;
 }
